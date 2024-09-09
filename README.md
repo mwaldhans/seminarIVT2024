@@ -5,8 +5,6 @@ Tento projekt je součástí semináře IVT pro školní rok 2024/25. Cílem pro
 
 ## Struktura projektu
 - `src/` - Zdrojové kódy projektu
-- `tests/` - Testovací skripty a data
-- `docs/` - Dokumentace projektu
 - `README.md` - Tento soubor
 
 ## Požadavky
@@ -15,7 +13,7 @@ Tento projekt je součástí semináře IVT pro školní rok 2024/25. Cílem pro
 ## Instalace
 1. Naklonujte tento repozitář:
     ```bash
-    git clone https://github.com/uzivatel/testovaci-projekt.git
+    git clone https://github.com/mwaldhans/seminarIVT2024.git
     ```
 2. Přejděte do adresáře projektu:
     ```bash
