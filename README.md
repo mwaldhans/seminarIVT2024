@@ -5,8 +5,6 @@ Tento projekt je součástí semináře IVT pro školní rok 2024/25. Cílem pro
 
 ## Struktura projektu
 - `src/` - Zdrojové kódy projektu
-- `tests/` - Testovací skripty a data
-- `docs/` - Dokumentace projektu
 - `README.md` - Tento soubor
 
 ## Požadavky
