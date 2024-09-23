@@ -21,4 +21,6 @@ Tento projekt je součástí semináře IVT pro školní rok 2024/25. Cílem pro
     ```
 3. Přidejte soubor se svým přijmením a uploadujte změnu na Github
     
+
 Ano
+ 
